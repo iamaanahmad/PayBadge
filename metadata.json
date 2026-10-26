@@ -1,0 +1,6 @@
+{
+  "name": "PayBadge – Payment Method Icons & We Accept Generator",
+  "description": "Generate, customize, and export responsive 'We Accept' payment method badge sets and grids for e-commerce checkouts and footers in vector SVG and Retina PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
